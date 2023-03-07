@@ -68,5 +68,19 @@
     "postal_code": "",
     "province": "",
     "city": ""
+  },
+  {
+    "id": 6,
+    "name": "luna",
+    "last_name": "lunares",
+    "email": "lunaresluna@gmail.com",
+    "pass": "$2a$12$ParqpEBYKwGRsVU6iobSLeL0YjrCCESGiEheJ2saDGR0.Jdr.7hZ6",
+    "avatar": "default-image.png",
+    "rol": "USER",
+    "tel": "",
+    "address": "",
+    "postal_code": "",
+    "province": "",
+    "city": ""
   }
 ]
